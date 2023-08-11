@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# Cipher Talker- " Your Morse Code Translator "
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot (113)](https://github.com/impragya08/CipherTaker/assets/84717393/eb35affe-a2d7-4ae9-b696-4ee32639b3e5)
 
-## Available Scripts
+## Live Link- Mobile Responsive
+https://impragya08.github.io/CipherTaker/
 
-In the project directory, you can run:
+## Table of Contents
+- [Introduction](#introduction)
+- [Problem Statement](#problem-statement)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Introduction
+Morse Code Translator is a user-friendly web application that facilitates the conversion of text to Morse code and vice versa. Morse code, once a critical communication method, is still used for various purposes today. This app serves as a convenient tool for those who want to learn Morse code, send secret messages, or simply explore the world of coding in a unique way.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Problem Statement
+While Morse code has historical significance and remains relevant in certain contexts, not many people are familiar with its intricacies or the process of encoding and decoding messages using it. This app addresses the challenge of understanding and using Morse code effectively by providing a straightforward platform for users to convert text into Morse code and vice versa.
 
-### `npm test`
+## Features
+- **Text to Morse Code Conversion:** Convert plain text messages into Morse code.
+- **Morse Code to Text Conversion:** Decode Morse code back into readable text.
+- **Real-time Conversion and Results Display:** See the conversion results instantly as you type.
+- **User-Friendly Interface:** Intuitive design for seamless navigation and interaction.
+- **Hover Effects and Animations:** Engaging visual effects for an enjoyable user experience.
+- **Responsive Design:** The app is designed to work smoothly on various screen sizes and devices.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies
+- HTML5
+- CSS3
+- JavaScript
+- React
 
-### `npm run build`
+## Installation
+1. Clone this repository to your local machine using: `git clone https://github.com/yourusername/morse-code-translator.git`
+2. Navigate to the project directory: `cd morse-code-translator`
+3. Install dependencies: `npm install`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
+1. Run the application: `npm start`
+2. Access the application in your web browser at: `http://localhost:3000`
+3. Enter text in the input box and click "Encode to Morse" to convert text to Morse code, or input Morse code and click "Decode from Morse" to convert to text.
+4. The result will be displayed in the output box.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contributing
+Contributions are welcome! If you encounter issues or have suggestions for improvements, feel free to submit a pull request.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Feedback & Support:
+I value your feedback! If you encounter any issues or have suggestions for improvement, please feel free to open an issue on our GitHub repository.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Convert your messages and gain a new perspective on communication. Happy translating! 🚀
